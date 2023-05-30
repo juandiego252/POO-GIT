@@ -24,5 +24,8 @@ Es una funcion utilizada para establecer los datos
 Getters 
 Es una funcion utilizada para obtener los datos 
 
+<<<<<<< HEAD
 ¿Qué es un puntero? 
 Variable que almacena la dirección de memoria de un objeto
+=======
+>>>>>>> 94a8d6c0b41c9ddbb88596eb9a5861e56fd0c72f
