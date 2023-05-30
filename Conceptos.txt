@@ -29,4 +29,8 @@ Es un sitio web que permite subir repositorios de nuestros proyectos y colaborar
 
 Git
 
+<<<<<<< HEAD
 Buenos dias programadores como estan? 
+=======
+Modificacion mia
+>>>>>>> 623e8781278ee60b9ec0111eca66440942b11d9f
