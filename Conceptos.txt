@@ -1,0 +1,30 @@
+Que es una clase ?
+Una clase es una plantilla que almacena informacion de uno o varios objetos
+que tienen metodos y atributos.
+
+Explique lo que es un objeto
+Un objeto representa alguna entidad de la vvida real
+un objeto tiene atributos que lleva consigo cuando se utiliza en un programa. Éstos se especifican como parte de la clase del objeto  
+
+Defina lo que es metodo
+Un metodo son las acciones que realiza un objeto
+
+Defina lo que son atributos
+Los atributos son las caracteristicas de los objetos.
+
+Setters
+Es una funcion utilizada para establecer los datos
+
+Getters 
+Es una funcion utilizada para obtener los datos 
+
+Puntero
+Es una direccion de memoria
+
+Constructor
+Es aquel que permite establecer valores para todos nuestros objetos
+
+GitHub 
+Es un sitio web que permite subir repositorios de nuestros proyectos y colaborar en un equipo de trabajo
+
+Git
