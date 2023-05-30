@@ -1,7 +1,22 @@
 Conceptos
+<<<<<<< HEAD
 ¿Que son los setters y getters? 
 Son métodos que nos permiten establecer y obtener información dentro de una clase 
 
 
 ¿Que son los constructores?
 Los constructores nos ayudan a inicializar los atributos de una clase 
+=======
+
+Defina lo que es metodo
+Un metodo son las acciones que realiza un objeto
+
+Defina lo que son atributos
+Los atributos son las caracteristicas de los objetos.
+
+Setters
+Es una funcion utilizada para establecer los datos
+
+Getters 
+Es una funcion utilizada para obtener los datos 
+>>>>>>> 14fd3aa87823364d0b455f318f1ff189c9ea60de
