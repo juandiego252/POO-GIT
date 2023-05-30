@@ -1,1 +1,13 @@
-ConceptosS
+Conceptos
+
+Defina lo que es metodo
+Un metodo son las acciones que realiza un objeto
+
+Defina lo que son atributos
+Los atributos son las caracteristicas de los objetos.
+
+Setters
+Es una funcion utilizada para establecer los datos
+
+Getters 
+Es una funcion utilizada para obtener los datos 
