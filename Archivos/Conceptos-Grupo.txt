@@ -1,12 +1,16 @@
 Conceptos
-<<<<<<< HEAD
+<<<<<<< HEAD >>>>>>>
+¿Que es una clase?
+Una clase nos permite definir las características y comportamientos de una entidad. 
+
+¿Que es un objeto?
+Un objeto es un tipo de dato que surge a partir de la clase 
+ 
 ¿Que son los setters y getters? 
 Son métodos que nos permiten establecer y obtener información dentro de una clase 
 
-
 ¿Que son los constructores?
 Los constructores nos ayudan a inicializar los atributos de una clase 
-=======
 
 Defina lo que es metodo
 Un metodo son las acciones que realiza un objeto
@@ -19,4 +23,6 @@ Es una funcion utilizada para establecer los datos
 
 Getters 
 Es una funcion utilizada para obtener los datos 
->>>>>>> 14fd3aa87823364d0b455f318f1ff189c9ea60de
+
+¿Qué es un puntero? 
+Variable que almacena la dirección de memoria de un objeto
