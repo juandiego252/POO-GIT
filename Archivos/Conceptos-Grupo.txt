@@ -1,1 +1,7 @@
-ConceptosS
+Conceptos
+¿Que son los setters y getters? 
+Son métodos que nos permiten establecer y obtener información dentro de una clase 
+
+
+¿Que son los constructores?
+Los constructores nos ayudan a inicializar los atributos de una clase 
